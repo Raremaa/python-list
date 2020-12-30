@@ -5,3 +5,4 @@
 - find_data_keys.py [Redis pipeline demo]
 - find_data_scan.py [Redis scan demo]
 - generate_data.py [快速生成若干Redis数据]
+- pandas_pymysql_demo.py [mysql + pandas demo]
